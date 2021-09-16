@@ -40,7 +40,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     -moz-font-smoothing: antialiased;
-    font-smoothing: antialiased;
+    /* font-smoothing: antialiased; */
 }
 body {
     font-family: 'Nunito Sans', sans-serif;
@@ -380,6 +380,9 @@ input[type=radio]:checked:before {
 .js .animate-box {
     opacity: 0;
 }
+.colorHeader {
+    color: brown !important;
+}
 .clear {
     clear: both;
 }
@@ -587,7 +590,7 @@ input[type=radio]:checked:before {
 #oliven-aside .oliven-logo a span {
     display: block;
     font-size: 36px;
-    color: #BD945A;
+    color: brown;
     font-family: 'Alex Brush', cursive;
     font-weight: 400;
     display: block;
@@ -1182,17 +1185,17 @@ body.slide .oliven-nav-toggle {
 
 /* story-wedding */
 
-.story-wedding {
+/* .story-wedding {
     -webkit-animation: rotation 12s infinite linear;
-}
-@-webkit-keyframes rotation {
+} */
+/* @-webkit-keyframes rotation {
     from {
         -webkit-transform: rotate(0deg);
     }
     to {
         -webkit-transform: rotate(359deg);
     }
-}
+} */
 
 
 @media screen and (max-width: 991px) {
@@ -1391,9 +1394,9 @@ body.slide .oliven-nav-toggle {
 
 
 /* ===== When & Where style ===== */
-.whenwhere .item {
+/* .whenwhere .item {
 
-}
+} */
 .whenwhere .item .whenwhere-img {
     position: relative;
     overflow: hidden;

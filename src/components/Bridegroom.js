@@ -22,9 +22,12 @@ function Bridegroom () {
                   </h6>{' '}
                   <span>The Bride</span>
                   <p>
-                    Rolin fringilla dui at elit finibus viverra nec a lacus
-                    seda themo the miss druane semper sollicitudin non the
-                    fermen.
+                    <div>
+                      Instagram&nbsp;:&nbsp;<a href='https://www.instagram.com/rolincha_sianturi/' target="_blank" rel="noreferrer"><strong>@rolincha_sianturi</strong></a>
+                    </div>
+                    <div>
+                      Facebook&nbsp;:&nbsp;<a href='https://facebook.com/sianturi.brepandiangan' target="_blank" rel="noreferrer"><strong>@sianturi.brepandiangan</strong></a>
+                    </div>
                   </p>
                   <div className='social'>
                     <div className='full-width'>
@@ -62,9 +65,12 @@ function Bridegroom () {
                   </h6>{' '}
                   <span>The Groom</span>
                   <p>
-                    Shemwel fringilla dui at elit finibus viverra nec a lacus
-                    seda themo the miss druane semper sollicitudin non the
-                    fermen.
+                    <div>
+                      Instagram&nbsp;:&nbsp;<a href='https://www.instagram.com/shemweldennis/' target="_blank" rel="noreferrer"><strong>@shemweldennis</strong></a>
+                    </div>
+                    <div>
+                      Facebook&nbsp;:&nbsp;<a href='https://facebook.com/zhemwel' target="_blank" rel="noreferrer"><strong>@zhemwel</strong></a>
+                    </div>
                   </p>
                   <div className='social'>
                     <div className='full-width'>

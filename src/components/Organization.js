@@ -13,34 +13,30 @@ function Organization () {
         <div className='row bord-box bg-img' data-background='images/slider.jpg'>
           <div className='col-md-3 item-box'>
             <h2 className='custom-font numb'>01</h2>
-            <h6 className='title'>Ceremony</h6>
+            <h6 className='title'>Pemberkatan Nikah</h6>
             <p>
-              Delta tristiu the jusone duise vitae diam neque nivami mis est
-              augue artine aringilla the at elit finibus vivera.
+              Perbekatan Nikah dimulai pada pukul 10.00 WIB di Gereja GPdI Maranatha Medan
             </p>
           </div>
           <div className='col-md-3 item-box'>
             <h2 className='custom-font numb'>02</h2>
-            <h6 className='title'>Lunch Time</h6>
+            <h6 className='title'>Resepsi Penikahan</h6>
             <p>
-              Delta tristiu the jusone duise vitae diam neque nivami mis est
-              augue artine aringilla the at elit finibus vivera.
+              Resepsi Pernikahan dimulai pada pukul 12.00 WIB di Wisma Sriwijawa GKPI
             </p>
           </div>
           <div className='col-md-3 item-box'>
             <h2 className='custom-font numb'>03</h2>
-            <h6 className='title'>Party</h6>
+            <h6 className='title'>Acara Resepsi</h6>
             <p>
-              Delta tristiu the jusone duise vitae diam neque nivami mis est
-              augue artine aringilla the at elit finibus vivera.
+              Makan Bersama, Sesi Foto dengan Pengantik dan Karoke dilaksanakan di lantai 2.
             </p>
           </div>
           <div className='col-md-3 item-box'>
             <h2 className='custom-font numb'>04</h2>
-            <h6 className='title'>Cake Cutting</h6>
+            <h6 className='title'>Upacara Adat</h6>
             <p>
-              Delta tristiu the jusone duise vitae diam neque nivami mis est
-              augue artine aringilla the at elit finibus vivera.
+              Upacara Adat dilaksanakan pada pukul 13.00 WIB seletelah makan siang di lantai 1.              
             </p>
           </div>
         </div>
