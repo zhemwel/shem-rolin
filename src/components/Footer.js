@@ -9,7 +9,7 @@ function Footer () {
             <h2>
               <a href='/'>
                 <img src={Logo} alt='' />
-                <span>
+                <span className='colorHeader'>
                   Shemwel <small>&</small> Rolin
                 </span>
               </a>

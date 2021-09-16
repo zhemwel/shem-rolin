@@ -7,7 +7,7 @@ function Organization () {
         <div className='row'>
           <div className='col-md-12 mb-30'>
             <span className='oliven-title-meta'>Wedding</span>
-            <h2 className='oliven-title'>Organization</h2>
+            <h2 className='oliven-title'>Acara Penikahan</h2>
           </div>
         </div>
         <div className='row bord-box bg-img' data-background='images/slider.jpg'>
@@ -29,14 +29,14 @@ function Organization () {
             <h2 className='custom-font numb'>03</h2>
             <h6 className='title'>Acara Resepsi</h6>
             <p>
-              Makan Bersama, Sesi Foto dengan Pengantik dan Karoke dilaksanakan di lantai 2.
+              Makan Bersama, Sesi Foto dengan Pengantin dan Karoke dilaksanakan pada pukul 12.00 WIB di lantai 2.
             </p>
           </div>
           <div className='col-md-3 item-box'>
             <h2 className='custom-font numb'>04</h2>
-            <h6 className='title'>Upacara Adat</h6>
+            <h6 className='title'>Acara Adat</h6>
             <p>
-              Upacara Adat dilaksanakan pada pukul 13.00 WIB seletelah makan siang di lantai 1.              
+              Acara Adat setelah makan siang di lantai 1 dilaksanakan pada pukul 13.00 WIB.              
             </p>
           </div>
         </div>

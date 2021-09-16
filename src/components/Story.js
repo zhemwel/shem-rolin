@@ -20,19 +20,19 @@ function Story () {
             <h4 className='oliven-story-subtitle'>Our Love.</h4>
             <h3 className='oliven-story-title'>Our Story</h3>
             <p>
-              Pertama kali ketemu di sebuah tempat makan dearah Gaperta Medan pada tanggal 9 Mei 2020,
-              lalu di saat itu kami mulai intens berkomunikasi dan bertemu dan kami berkenalan atau istilahnya PDKT sampai 2 bulan.
+              Pertama kali aku (Shemwel) ketemu di sebuah tempat makan dearah Gaperta Medan pada tanggal 9 Mei 2020,
+              lalu setelah itu kami mulai intens berkomunikasi dan bertemu. Kami berkenalan atau istilahnya PDKT sampai 2 bulan.
             </p>
             <p>
-              Dan ketika aku (Shemwel) merasa bahwa dia (Rolin) cocok untukku, aku memberanikan diri menembak dia jadi pacarku pada tanggal 10 Juli 2020 di Danau Toba.
+              Ketika aku merasa bahwa dia (Rolin) cocok untukku, aku memberanikan diri untuk menembak dia jadi pacarku pada tanggal 10 Juli 2020 di Danau Toba.
             </p>
             <p>
-              Selama pacaran ada masa suka maupun duka, tetapi kami selalu melewati masalah yang kami hadapi dengan kepala dingin,
-              untungnya kami mempunyai hobi yang sama yaitu traveling, jadi kami selalu jalan untuk meninggalkan penat dan jenut di kota Medan dan mengirup udara segar menuju daerah pegunungan.
-              Dan ketika kami merasa sudah waktunya untuk melanjutkan hubungan kami ke jenjang yang paling serius dan kami juga mendapat restu dari orang tua kami,
-              kami sepakat untuk menikah.
+              Selama pacaran ada masa suka maupun duka, tetapi kami selalu melewati semua masalah yang kami hadapi dengan kepala dingin,
+              untungnya kami mempunyai hobi yang sama yaitu traveling, jadi kami selalu jalan-jalan untuk meninggalkan penat dan jenuh di kota Medan dan mengirup udara segar menuju daerah pegunungan.
+              Dan ketika kami merasa sudah waktunya untuk melanjutkan hubungan kami ke jenjang yang lebih serius dan kami juga mendapat restu dari orang tua kami,
+              kami akhir sepakat untuk menikah.
             </p>
-            <h4>29 Oktober 2021, Itulah tanggal yang kami pilih!</h4>
+            <h4>29 Oktober 2021, Itulah tanggal yang kami pilih..</h4>
             <p>
               Semoga cerita cinta kami akan abadi sampai selamanya.
             </p>

@@ -20,16 +20,16 @@ function Bridegroom () {
                   <h6>
                     Rolinca Sianturi <i className='ti-heart'></i>
                   </h6>{' '}
-                  <span>The Bride</span>
-                  <p>
+                  <span className='marginBottom1rem'>The Bride</span>
+         
                     <div>
                       Instagram&nbsp;:&nbsp;<a href='https://www.instagram.com/rolincha_sianturi/' target="_blank" rel="noreferrer"><strong>@rolincha_sianturi</strong></a>
                     </div>
                     <div>
                       Facebook&nbsp;:&nbsp;<a href='https://facebook.com/sianturi.brepandiangan' target="_blank" rel="noreferrer"><strong>@sianturi.brepandiangan</strong></a>
                     </div>
-                  </p>
-                  <div className='social'>
+               
+                  {/* <div className='social'>
                     <div className='full-width'>
                       <a href='#0' className='icon'>
                         {' '}
@@ -44,7 +44,7 @@ function Bridegroom () {
                         <i className='ti-instagram'></i>{' '}
                       </a>
                     </div>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
@@ -63,16 +63,16 @@ function Bridegroom () {
                   <h6>
                     Shemwel Dennis Tambunan <i className='ti-heart'></i>
                   </h6>{' '}
-                  <span>The Groom</span>
-                  <p>
+                  <span className='marginBottom1rem'>The Groom</span>
+                  
                     <div>
                       Instagram&nbsp;:&nbsp;<a href='https://www.instagram.com/shemweldennis/' target="_blank" rel="noreferrer"><strong>@shemweldennis</strong></a>
                     </div>
                     <div>
                       Facebook&nbsp;:&nbsp;<a href='https://facebook.com/zhemwel' target="_blank" rel="noreferrer"><strong>@zhemwel</strong></a>
                     </div>
-                  </p>
-                  <div className='social'>
+             
+                  {/* <div className='social'>
                     <div className='full-width'>
                       <a href='#0' className='icon'>
                         {' '}
@@ -87,7 +87,7 @@ function Bridegroom () {
                         <i className='ti-instagram'></i>{' '}
                       </a>
                     </div>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>

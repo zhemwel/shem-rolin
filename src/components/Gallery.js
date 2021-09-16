@@ -12,7 +12,7 @@ function Gallery () {
         <div className='row'>
           <div className='col-md-12 mb-30'>
             <span className='oliven-title-meta'>Gallery</span>
-            <h2 className='oliven-title'>Our Memories</h2>
+            <h2 className='oliven-title'>Pre Wedding</h2>
           </div>
         </div>
       </div>
@@ -29,9 +29,9 @@ function Gallery () {
                     alt=''
                   />{' '}
                 </div>
-                <div className='gallery-detail'>
+                {/* <div className='gallery-detail'>
                   <h4 className='mb-0'>Wedding Ceremony</h4>
-                </div>
+                </div> */}
               </div>
             </a>
           </div>
@@ -46,9 +46,9 @@ function Gallery () {
                     alt=''
                   />{' '}
                 </div>
-                <div className='gallery-detail'>
+                {/* <div className='gallery-detail'>
                   <h4 className='mb-0'>Wedding Party</h4>{' '}
-                </div>
+                </div> */}
               </div>
             </a>
           </div>
@@ -63,9 +63,9 @@ function Gallery () {
                     alt=''
                   />{' '}
                 </div>
-                <div className='gallery-detail'>
+                {/* <div className='gallery-detail'>
                   <h4 className='mb-0'>Wedding Ceremony</h4>{' '}
-                </div>
+                </div> */}
               </div>
             </a>
           </div>
@@ -80,9 +80,9 @@ function Gallery () {
                     alt=''
                   />{' '}
                 </div>
-                <div className='gallery-detail'>
+                {/* <div className='gallery-detail'>
                   <h4 className='mb-0'>Wedding Party</h4>{' '}
-                </div>
+                </div> */}
               </div>
             </a>
           </div>
@@ -97,9 +97,9 @@ function Gallery () {
                     alt=''
                   />{' '}
                 </div>
-                <div className='gallery-detail'>
+                {/* <div className='gallery-detail'>
                   <h4 className='mb-0'>Wedding Ceremony</h4>{' '}
-                </div>
+                </div> */}
               </div>
             </a>
           </div>
@@ -114,9 +114,9 @@ function Gallery () {
                     alt=''
                   />{' '}
                 </div>
-                <div className='gallery-detail'>
+                {/* <div className='gallery-detail'>
                   <h4 className='mb-0'>Wedding Party</h4>{' '}
-                </div>
+                </div> */}
               </div>
             </a>
           </div>

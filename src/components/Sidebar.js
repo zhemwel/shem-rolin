@@ -36,16 +36,19 @@ function Sidebar () {
               <a href='#story'>Our Story</a>
             </li>
             <li>
-              <a href='#organization'>Organization</a>
+              <a href='#organization'>Acara Pernikahan</a>
             </li>
             <li>
               <a href='#gallery'>Gallery</a>
             </li>
             <li>
-              <a href='#whenwhere'>When & Where</a>
+              <a href='#whenwhere'>Tempat & Waktu Pernikahan</a>
             </li>
-            <li>
+            {/* <li>
               <a href='#rsvp'>R.S.V.P</a>
+            </li> */}
+            <li>
+              <a href='#donate'>Donate</a>
             </li>
           </ul>
         </nav>

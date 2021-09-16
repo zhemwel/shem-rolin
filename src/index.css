@@ -1070,6 +1070,7 @@ body.slide .oliven-nav-toggle {
 #countdown {
     text-align: center;
     background-image: url(./assets/images/banner-1.jpg);
+    background-size: auto;
 }
 #countdown .section-head {
     margin-bottom: 15px;
@@ -1227,7 +1228,7 @@ body.slide .oliven-nav-toggle {
 }
 .organization .item-box {
   padding: 60px 30px;
-  height: 100%;
+  /* height: 100%; */
   background-color: #fff;
   border: 1px solid #F6F1F0;
   border-right: 0;
@@ -1289,6 +1290,7 @@ body.slide .oliven-nav-toggle {
 /* ======= See You style ======= */
 .seeyou {
   background-image: url(./assets/images/banner-3.jpg);
+  background-size: auto;
 }
 .seeyou .section-head span {
     color: #fff;
@@ -1540,9 +1542,9 @@ body.slide .oliven-nav-toggle {
 
 
 /* ===== Footer style ===== */
-#rsvp {
+/* #rsvp {
     background-image: url(./assets/images/banner-2.jpg);
-}
+} */
 .footer2 {
     padding: 90px 30px;
     background: #faf8f7;
@@ -2023,4 +2025,22 @@ body.slide .oliven-nav-toggle {
         padding: 20px;
         margin: 0 15px;
     }
+}
+.width128px {
+    width: 128px;
+}
+.marginBottom1rem {
+    margin-bottom: 1rem;
+}
+.marginBottom2rem {
+    margin-bottom: 2rem;
+}
+.marginBottom2remImportant {
+    margin-bottom: 2rem !important;
+}
+.colorBlue{
+    color:blue;
+}
+.colorTitleCD {
+    color: #BD945A !important;
 }
