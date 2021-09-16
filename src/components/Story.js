@@ -17,28 +17,24 @@ function Story () {
             </div>
           </div>
           <div className='col-md-7 animate-box'>
-            <h4 className='oliven-story-subtitle'>Our love.</h4>
+            <h4 className='oliven-story-subtitle'>Our Love.</h4>
             <h3 className='oliven-story-title'>Our Story</h3>
             <p>
-              Curabit aliquet orci elit genes tristique lorem commodo vitae.
-              Tuliaum tincidunt nete sede gravida aliquam, neque libero
-              hendrerit magna, sit amet mollis lacus ithe maurise. Dunya erat
-              volutpat edat themo the druanye semper.
+              Pertama kali ketemu di sebuah tempat makan dearah Gaperta Medan pada tanggal 9 Mei 2020,
+              lalu di saat itu kami mulai intens berkomunikasi dan bertemu dan kami berkenalan atau istilahnya PDKT sampai 2 bulan.
             </p>
             <p>
-              Luality fringilla duiman at elit vinibus viverra nec a lacus themo
-              the druanye sene sollicitudin mi suscipit non sagie the fermen.
+              Dan ketika aku (Shemwel) merasa bahwa dia (Rolin) cocok untukku, aku memberanikan diri menembak dia jadi pacarku pada tanggal 10 Juli 2020 di Danau Toba.
             </p>
             <p>
-              Phasellus viverra tristique justo duis vitae diam neque nivamus ac
-              est augue artine aringilla dui at elit finibus viverra nec a
-              lacus. Nedana themo eros odio semper soe suscipit non. Curabit
-              aliquet orci elit genes tristique.
+              Selama pacaran ada masa suka maupun duka, tetapi kami selalu melewati masalah yang kami hadapi dengan kepala dingin,
+              untungnya kami mempunyai hobi yang sama yaitu traveling, jadi kami selalu jalan untuk meninggalkan penat dan jenut di kota Medan dan mengirup udara segar menuju daerah pegunungan.
+              Dan ketika kami merasa sudah waktunya untuk melanjutkan hubungan kami ke jenjang yang paling serius dan kami juga mendapat restu dari orang tua kami,
+              kami sepakat untuk menikah.
             </p>
-            <h4>Oct 29th, 2021, We Said Yes!</h4>
+            <h4>29 Oktober 2021, Itulah tanggal yang kami pilih!</h4>
             <p>
-              Luality fringilla duiman at elit finibus viverra nec a lacus themo
-              the druanye sene sollicitudin mi suscipit non sagie the fermen.
+              Semoga cerita cinta kami akan abadi sampai selamanya.
             </p>
           </div>
         </div>
