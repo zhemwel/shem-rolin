@@ -9,12 +9,12 @@ function Footer () {
             <h2>
               <a href='/'>
                 <img src={Logo} alt='' />
-                <span className='colorHeader'>
+                <span className='headerBrown'>
                   Shemwel <small>&</small> Rolin
                 </span>
               </a>
             </h2>
-            <p className='copyright'>October 29, 2021 – Medan</p>
+            <p className='copyright'>October 29, 2021 – Jl. Sriwijaya No.65-C, Medan</p>
           </div>
         </div>
       </div>

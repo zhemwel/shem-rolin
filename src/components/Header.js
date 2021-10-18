@@ -12,9 +12,9 @@ function Header () {
             <h1 className='animate-box colorHeader' data-animate-effect='fadeInUp'>
               Shemwel & Rolin
             </h1>
-            <h5 className='animate-box colorHeader' data-animate-effect='fadeInUp'>
-              29 October, 2021 – Medan
-            </h5>
+            {/* <h5 className='animate-box colorHeader' data-animate-effect='fadeInUp'>
+              October 29, 2021 – Jl. Sriwijaya No.65-C, Medan
+            </h5> */}
           </div>
         </div>
         <div className='row'>

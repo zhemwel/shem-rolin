@@ -33,6 +33,9 @@ function Sidebar () {
               <a href='#couple'>Couple</a>
             </li>
             <li>
+              <a href='#invitation'>Wedding Invitation</a>
+            </li>
+            <li>
               <a href='#story'>Our Story</a>
             </li>
             <li>
@@ -58,7 +61,7 @@ function Sidebar () {
           <p>
             Shemwel & Rolin wedding
             <br />
-            29 October 2021, Medan
+            October 29, 2021 – Jl. Sriwijaya No.65-C, Medan
           </p>
         </div>
       </aside>

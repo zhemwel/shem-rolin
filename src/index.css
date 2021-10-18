@@ -354,6 +354,11 @@ input[type=radio]:checked:before {
 .p-40 {
         padding: 40px
 }
+/* width */
+.widthauto {
+    width: auto !important;
+}
+
 /* margin */
 .mb-0 {
     margin-bottom: 0;
@@ -381,6 +386,10 @@ input[type=radio]:checked:before {
     opacity: 0;
 }
 .colorHeader {
+    color: brown !important;
+    background-color: rgb(192, 192, 192);
+}
+.headerBrown {
     color: brown !important;
 }
 .clear {
@@ -1207,6 +1216,10 @@ body.slide .oliven-nav-toggle {
     top: 40px;
     right: 45px;
 }
+
+    .widthInvitation {
+        width: 50%;
+    }
 }
 
 
@@ -1217,6 +1230,10 @@ body.slide .oliven-nav-toggle {
     position: absolute;
     top: 15px;
     right: 45px;
+    }
+
+    .widthInvitation {
+        width: 90%;
     }
 }
 

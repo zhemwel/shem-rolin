@@ -100,7 +100,7 @@ function Bridegroom () {
           >
             <h3 className='oliven-couple-title'>Are getting married!</h3>
             <h4 className='oliven-couple-subtitle'>
-              October 29, 2021 — Sumatera Utara, Medan
+              October 29, 2021 – Jl. Sriwijaya No.65-C, Medan
             </h4>
           </div>
         </div>

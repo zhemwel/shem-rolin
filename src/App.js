@@ -4,6 +4,7 @@ import Footer from './components/Footer';
 import Gallery from './components/Gallery';
 import Header from './components/Header';
 import Organization from './components/Organization';
+import Invitation from './components/Invitation';
 // import RSVP from './components/RSVP';
 import Seeyou from './components/Seeyou';
 import Sidebar from './components/Sidebar';
@@ -18,6 +19,7 @@ function App() {
       <div id='oliven-main'>
         <Header />
         <Bridegroom />
+        <Invitation />
         <Countdown />
         <Story />
         <Seeyou />
